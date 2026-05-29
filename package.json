@@ -1,0 +1,11 @@
+{
+  "name": "ping-pong-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
